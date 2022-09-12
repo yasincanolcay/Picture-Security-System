@@ -1,0 +1,24 @@
+C:\csharp projelerim\Picture Security System\Picture Security System\bin\Debug\Picture Security System.exe.config
+C:\csharp projelerim\Picture Security System\Picture Security System\bin\Debug\Picture Security System.exe
+C:\csharp projelerim\Picture Security System\Picture Security System\bin\Debug\Picture Security System.pdb
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture Security System.csproj.AssemblyReference.cache
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture_Security_System.Form1.resources
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture_Security_System.Properties.Resources.resources
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture Security System.csproj.GenerateResource.cache
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture Security System.csproj.CoreCompileInputs.cache
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture Security System.exe
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture Security System.pdb
+C:\csharp projelerim\Picture Security System\Picture Security System\bin\Debug\Database1.mdf
+C:\csharp projelerim\Picture Security System\Picture Security System\bin\Debug\Database1_log.ldf
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture_Security_System.Dashboard.resources
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture_Security_System.ImageCard.resources
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture_Security_System.ImportPhoto.resources
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture_Security_System.ShowImage.resources
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture_Security_System.WarningCard.resources
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture_Security_System.ForScroll.resources
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture_Security_System.CreatePassword.resources
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture_Security_System.LoginCard.resources
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture_Security_System.RegisterCard.resources
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture_Security_System.SettingsPage.resources
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture_Security_System.AskCard.resources
+C:\csharp projelerim\Picture Security System\Picture Security System\obj\Debug\Picture_Security_System.ChangePassword.resources
